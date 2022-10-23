@@ -1,1 +1,13 @@
-# CS340
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+I believe that one of the best ways to create repeatable, legible, and flexible code is by employing encapsulation. I think this because code may be readily developed elsewhere to support other projects by being encapsulated. In this assignment you might reuse the data element by removing the data step from the dashboard and storing it somewhere. For readability I  think it's important to annotate ways in the base code that it could be improved and enhanced. I think many developers believe that they should write highly readable code, which is code that is clear and requires few comments. Although I'm not sure I'll always be able to get it setup, I can definitely see myself using it everytime I work with mongoDB since it provides me a method to expand the data.
+
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+I just begin from the top. I collect all the data needed to do the assignment, then I merely start with the most important information. In this project, I started by identifying the very first item it asks for and working out how to find it. I do the same thinking about the prior task when I go on to the next one. I'll definitely compile a list of all the prerequisites in the future. I'll be able to do the assignment and then observe what comes next, which may assist you set up before you arrive. For instance, you may add the function to incorporate a picture later on in the project if you want to maintain the code organized and effective.
+
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Improve its efficiency. The power plants have codes to assure the safety of the energy and that everything is working properly to provide power to your home. Cars have codes to ensure that they operate. You can understand how crucial a computer scientist is to the simplicity and security of activities we perform every day with just two examples. With this project, you learn how to capture data that you may later utilize to improve your code and maintain more orderly operations. This teaches you how to utilize data that is necessary for all professions to implement services and determine where extra assistance is required.
